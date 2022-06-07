@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/ronyeh/piano/issues"
     },
-    "homepage": "https://github.com/ronyeh/piano#readme"
+    "homepage": "https://github.com/ronyeh/piano#readme",
+    "dependencies": {
+        "esbuild": "^0.14.42"
+    }
 }
