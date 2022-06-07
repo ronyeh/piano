@@ -1,0 +1,24 @@
+{
+    "name": "go-piano",
+    "version": "1.0.0",
+    "description": "Learn Piano",
+    "type": "module",
+    "main": "build/esm/index.js",
+    "module": "build/esm/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ronyeh/piano.git"
+    },
+    "keywords": [
+        "piano"
+    ],
+    "author": "Ron B. Yeh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ronyeh/piano/issues"
+    },
+    "homepage": "https://github.com/ronyeh/piano#readme"
+}
