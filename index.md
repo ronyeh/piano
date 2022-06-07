@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Piano + JavaScript
 
-You can use the [editor on GitHub](https://github.com/ronyeh/piano/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This tutorial demonstrates shows how to create a basic piano in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/piano/tree/gh-pages).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Audio
 
-### Markdown
+First, we will need to play individual notes from our virtual piano. We can use a JS library for this. Here are two that are easy to use:
+* Musical
+* Tone
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```js
+alert('Hello World');
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Graphics
 
-### Jekyll Themes
+Let's make some graphics for our piano. We will use SVG.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ronyeh/piano/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```js
+alert('Hello World');
+```
 
-### Support or Contact
+## Interaction
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Now we need to let the user interact with the piano, through the mouse and keyboard (or through tapping on a touch screen).
+
+```js
+alert('Hello World');
+```
+
+
+### See
+* JS Guitar
+* JS Music Theory
