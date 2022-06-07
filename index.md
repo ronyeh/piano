@@ -7,11 +7,16 @@ This tutorial demonstrates shows how to create a basic piano in JavaScript. All 
 ## Audio
 
 First, we will need to play individual notes from our virtual piano. We can use a JS library for this. Here are two that are easy to use:
-* Musical
-* Tone
+* [Musical](https://github.com/PencilCode/musical.js)
+* [Tone](https://tonejs.github.io/)
 
 ```js
-alert('Hello World');
+// Tone JS
+// Play a middle 'C' for the duration of an 8th note
+piano.triggerAttackRelease("C4", "8n");
+
+// Musical JS
+piano.tone('C', 1.0, 0.5);
 ```
 
 ## Graphics
@@ -32,5 +37,5 @@ alert('Hello World');
 
 
 ### See
-* JS Guitar
-* JS Music Theory
+* [JS Guitar](https://guitar.js.org/)
+* [JS Music Theory](https://music.js.org/)
