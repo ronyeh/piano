@@ -2,7 +2,7 @@
 
 This tutorial demonstrates shows how to create a basic piano in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/piano/tree/gh-pages).
 
-Here is a demo of what we will build together: https://squarepoet.github.io/piano/v1
+[Here is a demo](https://squarepoet.github.io/piano/v1) of what we will build together.
 
 ## Audio
 
