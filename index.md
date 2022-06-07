@@ -2,6 +2,8 @@
 
 This tutorial demonstrates shows how to create a basic piano in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/piano/tree/gh-pages).
 
+Here is a demo of what we will build together: https://squarepoet.github.io/piano/v1
+
 ## Audio
 
 First, we will need to play individual notes from our virtual piano. We can use a JS library for this. Here are two that are easy to use:
