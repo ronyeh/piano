@@ -1,10 +1,18 @@
 # Piano + JavaScript
 
-This tutorial demonstrates shows how to create a basic piano in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/tree/main). The source code for this website [can be found here](https://github.com/ronyeh/piano/tree/gh-pages).
+This tutorial shows how to create a basic piano in JavaScript. All code on this page is MIT licensed. The source code [can be found here](https://github.com/ronyeh/piano/).
 
-[Here is a demo](https://squarepoet.github.io/piano/v1) of what we will build together.
+We will try to build a piano that looks something like this:
 
-The NPM package for this library is: [https://www.npmjs.com/package/go-piano](https://www.npmjs.com/package/go-piano).
+![Piano](./i/piano-000001.png)
+
+[Click here for a demo](https://squarepoet.github.io/piano/v1).
+
+To follow along with this tutorial, install [the package from npm](https://www.npmjs.com/package/go-piano).
+
+```
+npm install go-piano
+```
 
 ## Audio
 
@@ -24,9 +32,10 @@ piano.tone("C", 1.0, 0.5);
 
 ## Graphics
 
-Let's make some graphics for our piano. We will use SVG to draw the keys and body of the piano. If you want to skip this step, you can download an image of a piano.
+Let's make some graphics for our piano. We will use SVG to draw the keys and body of the piano. If you want to skip this step, you can download a [simple image of a piano here](./i/piano-template-000001.png).
 
 ```js
+// TODO
 alert("Hello World");
 ```
 
@@ -35,6 +44,7 @@ alert("Hello World");
 Now we need to let the user interact with the piano, through the mouse and keyboard (or through tapping on a touch screen).
 
 ```js
+// TODO
 alert("Hello World");
 ```
 
